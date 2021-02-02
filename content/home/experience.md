@@ -42,4 +42,12 @@ experience:
     date_start: '2017-09-15'
     date_end: '2018-07-15'
 #   description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Visiting Scholar
+    company: Edinburgh University
+    company_url: ''
+    location: Edinburgh
+    date_start: '2015-12-11'
+    date_end: '2016-12-10'
+#   description: Taught electronic engineering and researched semiconductor physics.
 ---
