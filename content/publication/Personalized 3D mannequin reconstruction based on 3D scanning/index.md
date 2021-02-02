@@ -31,7 +31,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Journal of Clothing Science and Technology*
-publication_short: In *ICW*
+publication_short: In *IJCST*
 
 abstract: Personalized customization is a new manufacturing trend in high-end products (e.g. senior
 custom clothing).Traditional apparel customization (made-to-measure & bespoken) highly
